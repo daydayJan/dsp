@@ -44,7 +44,7 @@ Click the **Fork** button at the upper right hand corner of the page:
 This makes a personal copy of the repository that you can edit. Your forked copies will show up in your *Repositories* section.
 
 This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user_name/dsp`.
-
+**daydayjan/dsp**
 
 ## Step 4: Edit your fork  
 
